@@ -85,198 +85,6 @@
         </div>
 
         <div class="col-xl-7 col-lg-12 col-md-12 col-sm-12 layout-top-spacing">
-
-            <div class="usr-tasks ">
-                <div class="widget-content widget-content-area">
-                    <h3 class="">Task</h3>
-                    <div class="table-responsive">
-                        <table class="table table-bordered">
-                            <thead>
-                                <tr>
-                                    <th>Projects</th>
-                                    <th>Progress</th>
-                                    <th>Task Done</th>
-                                    <th class="text-center">Time</th>
-                                </tr>
-                            </thead>
-                            <tbody>
-                                <tr>
-                                    <td>Figma Design</td>
-                                    <td>                                                    
-                                        <div class="progress br-30">
-                                            <div class="progress-bar br-30 bg-danger" role="progressbar" style="width: 29.56%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
-                                        </div>
-                                    </td>
-                                    <td><p class="text-danger">29.56%</p></td>
-                                    <td class="text-center">
-                                        <p>2 mins ago</p>
-                                    </td>
-                                </tr>
-
-                                <tr>
-                                    <td>Vue Migration</td>
-                                    <td>
-                                        <div class="progress br-30">
-                                            <div class="progress-bar br-30 bg-info" role="progressbar" style="width: 50%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
-                                        </div>
-                                    </td>
-                                    <td><p class="text-success">50%</p></td>
-                                    <td class="text-center">
-                                        <p>4 hrs ago</p>
-                                    </td>
-                                </tr>
-                                
-                                <tr>
-                                    <td>Flutter App</td>
-                                    <td>                                                    
-                                        <div class="progress br-30">
-                                            <div class="progress-bar br-30 bg-warning" role="progressbar" style="width: 39%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
-                                        </div>
-                                    </td>
-                                    <td><p class="text-danger">39%</p></td>
-                                    <td class="text-center">
-                                        <p>a min ago</p>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>API Integration</td>
-                                    <td>                                                    
-                                        <div class="progress br-30">
-                                            <div class="progress-bar br-30 bg-success" role="progressbar" style="width: 78.03%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
-                                        </div>
-                                    </td>
-                                    <td><p class="text-success">78.03%</p></td>
-                                    <td class="text-center">
-                                        <p>2 weeks ago</p>
-                                    </td>
-                                </tr>
-                                
-                                <tr>
-                                    <td>Blog Update</td>
-                                    <td>                                                    
-                                        <div class="progress br-30">
-                                            <div class="progress-bar br-30 bg-secondary" role="progressbar" style="width: 100%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
-                                        </div>
-                                    </td>
-                                    <td><p class="text-success">100%</p></td>
-                                    <td class="text-center">
-                                        <p>18 hrs ago</p>
-                                    </td>
-                                </tr>
-
-                                <tr>
-                                    <td>Landing Page</td>
-                                    <td>                                                    
-                                        <div class="progress br-30">
-                                            <div class="progress-bar br-30 bg-danger" role="progressbar" style="width: 19.15%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
-                                        </div>
-                                    </td>
-                                    <td><p class="text-danger">19.15%</p></td>
-                                    <td class="text-center">
-                                        <p>5 days ago</p>
-                                    </td>
-                                </tr>
-
-                                <tr>
-                                    <td>Shopify Dev</td>
-                                    <td>                                                    
-                                        <div class="progress br-30">
-                                            <div class="progress-bar br-30 bg-info" role="progressbar" style="width: 60.55%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
-                                        </div>
-                                    </td>
-                                    <td><p class="text-success">60.55%</p></td>
-                                    <td class="text-center">
-                                        <p>8 days ago</p>
-                                    </td>
-                                </tr>
-
-                            </tbody>
-                        </table>
-                    </div>
-                </div>
-            </div>
-            
-        </div>
-        
-    </div>
-
-    <div class="row">
-
-        <div class="col-xl-6 col-lg-12 col-md-12 col-sm-12">
-            <div class="summary layout-spacing ">
-                <div class="widget-content widget-content-area">
-                    <h3 class="">Summary</h3>
-                    <div class="order-summary">
-
-                        <div class="summary-list summary-income">
-
-                            <div class="summery-info">
-
-                                <div class="w-icon">
-                                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-shopping-bag"><path d="M6 2L3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4z"></path><line x1="3" y1="6" x2="21" y2="6"></line><path d="M16 10a4 4 0 0 1-8 0"></path></svg>
-                                </div>
-
-                                <div class="w-summary-details">
-
-                                    <div class="w-summary-info">
-                                        <h6>Income <span class="summary-count">$92,600 </span></h6>
-                                        <p class="summary-average">90%</p>
-                                    </div>
-
-                                </div>
-
-                            </div>
-
-                        </div>
-
-                        <div class="summary-list summary-profit">
-
-                            <div class="summery-info">
-
-                                <div class="w-icon">
-                                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-dollar-sign"><line x1="12" y1="1" x2="12" y2="23"></line><path d="M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"></path></svg>
-                                </div>
-                                
-                                <div class="w-summary-details">
-
-                                    <div class="w-summary-info">
-                                        <h6>Profit <span class="summary-count">$37,515</span></h6>
-                                        <p class="summary-average">65%</p>
-                                    </div>
-
-                                </div>
-
-                            </div>
-
-                        </div>
-
-                        <div class="summary-list summary-expenses">
-
-                            <div class="summery-info">
-
-                                <div class="w-icon">
-                                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-credit-card"><rect x="1" y="4" width="22" height="16" rx="2" ry="2"></rect><line x1="1" y1="10" x2="23" y2="10"></line></svg>
-                                </div>
-                                <div class="w-summary-details">
-
-                                    <div class="w-summary-info">
-                                        <h6>Expenses <span class="summary-count">$55,085</span></h6>
-                                        <p class="summary-average">42%</p>
-                                    </div>
-
-                                </div>
-
-                            </div>
-
-                        </div>
-
-                    </div>
-                </div>
-            </div>
-        </div>
-
-        <div class="col-xl-6 col-lg-12 col-md-12 col-sm-12">
-
             <div class="pro-plan layout-spacing">
                 <div class="widget">
 
@@ -320,10 +128,8 @@
                 </div>
 
             </div>
-            
-        </div>
 
-        <div class="col-xl-6 col-lg-12 col-md-12 col-sm-12">
+
             <div class="payment-history layout-spacing ">
                 <div class="widget-content widget-content-area">
                     <h3 class="">Payment History</h3>
@@ -381,9 +187,8 @@
 
                 </div>
             </div>
-        </div>
 
-        <div class="col-xl-6 col-lg-12 col-md-12 col-sm-12">
+
             <div class="payment-methods layout-spacing ">
                 <div class="widget-content widget-content-area">
                     <h3 class="">Payment Methods</h3>
@@ -418,6 +223,7 @@
                 </div>
             </div>
         </div>
+        
     </div>
     
     <!--  BEGIN CUSTOM SCRIPTS FILE  -->

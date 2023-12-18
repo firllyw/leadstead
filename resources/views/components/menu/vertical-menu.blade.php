@@ -38,8 +38,8 @@
                                 <img src="{{Vite::asset('resources/images/profile-30.png')}}" alt="avatar">
                             </div>
                             <div class="profile-content">
-                                <h6 class="">Shaun Park</h6>
-                                <p class="">Project Leader</p>
+                                <h4 class="mt-0">{{session('email')}}</h4>
+                                <p class="">{{session('organization')}}</p>
                             </div>
                         </div>
                     </div>
